@@ -14,6 +14,7 @@
 #define MLPACK_METHODS_RL_SAC_IMPL_HPP
 
 #include <mlpack/prereqs.hpp>
+#include <mlpack/methods/ann/layer/layer.hpp>
 
 #include "sac.hpp"
 

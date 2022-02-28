@@ -34,6 +34,9 @@
 #include <tuple>
 #include <utility>
 
+// Include ensmallen major version
+#include "ensmallen_bits/ens_version.hpp"
+
 // But if it's not defined, we'll do it.
 #ifndef M_PI
   #define M_PI 3.141592653589793238462643383279
